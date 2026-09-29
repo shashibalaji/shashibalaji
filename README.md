@@ -1,4 +1,4 @@
-# Shashi <!-- TODO: your full name as it appears on your CV -->
+# Shashi Kumar <!-- TODO: your full name as it appears on your CV -->
 
 I'm a QA automation engineer who builds tools that make LLMs write tests, and
 builds the checks that stop bad generated code from reaching the suite. Before
