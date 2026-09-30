@@ -79,5 +79,5 @@ Playwright for output · GitHub Actions CI.
 I'm open to SDET / QA automation roles, especially teams putting AI into their
 testing workflow and wanting guardrails around it.
 
-[shashibalajins@gmail.com](mailto:shashibalajins@gmail.com)
+[shashikumar.star.bs@gmail.com](mailto:shashikumar.star.bs@gmail.com)
 <!-- TODO: add · [LinkedIn](<url>) · [Résumé (PDF)](<url>) -->
